@@ -1,0 +1,17 @@
+.table thead th{
+    width: 25%
+}
+
+.input-group{
+    margin: 20px 0 !important;
+}
+
+td, th{
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+td:first-of-type{
+    height: 200px;
+    width: 250px;
+}
